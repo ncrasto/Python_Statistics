@@ -1,2 +1,2 @@
 # Python_Statistics
-Python Statistics Essential Training course Practise
+Python Statistics Essential Training course Training
